@@ -1,22 +1,30 @@
-Hi, I'm Tushar 👋
+# Hi, I'm Tushar 👋
+ 
+**Security Engineer** focused on the Palo Alto Networks stack. I design, deploy and debug Enterprise Network Security.
+ 
+### 🛡️ What I do
+- Professional Services (Centralized Engineering)** at Palo Alto Networks
+- Hands-on with **NGFW / PAN-OS**, **Prisma Access** and **Cortex XDR**
+- Previously **Tier-2/Tier-3 TAC** for Prisma Access at **Movate**
+- ~3 years in Network Security engineering and deploying SASE like never before
 
-Security Engineer focused on the Palo Alto Networks stack. I design, deploy and troubleshoot enterprise network security.
+### 🔬 Currently exploring
+- **AI / LLM security**: how AI systems get attacked and how to defend them
+- 
+### 🧰 Toolbox
+- **Network Security:** `Next-Gen Firewalls` · `SASE / ZTNA` · `Secure Web Gateway / Explicit Proxy` · `VPN (IPsec, SSL)` · `Network Segmentation` · `Zero-Trust Design`
+- **Endpoint & Detection:** `EDR / XDR` · `Threat Hunting` · `Detection Engineering` · `Malware Investigation` · `Incident Response` · `Root Cause Analysis`
+- **Identity & Access:** `SAML` · `OAuth 2.0` · `OIDC` · `LDAP` · `RADIUS`
+- **Networking:** `TCP/IP` · `BGP` · `OSPF` · `EIGRP` · `VLAN` · `QoS` · `SD-WAN` · `DNS`
+- **Automation & DevOps:** `Terraform` · `Ansible` · `CI/CD` · `Kubernetes` · `Policy-as-Code` · `REST APIs`
+- **Cloud & Infra:** `AWS` · `Azure` · `Linux` · `Windows`
+- **Languages:** `Python` · `PowerShell` · `Bash` · `C` · `JavaScript` · `SQL`
+- **Labs & Analysis:** `Wireshark` · `GNS3` · `Kali Linux` · `Grafana` · `VirtualBox` · `Git` · `JIRA`
+- **Frameworks:** `NIST` · `RMF`
+- **Platforms:** `Palo Alto Networks` · `Fortinet` · `Zscaler`
+ 
+### 📂 Featured
+- [GlobalProtect_Detector](https://github.com/tushar-ux/GlobalProtect_Detector): PowerShell script that checks whether the GlobalProtect client is installed on an endpoint
 
-🛡️ What I do
-Systems Engineer, Professional Services (Centralized Engineering) at Kerol Systems, a Palo Alto Networks partner
-Hands-on with NGFW / PAN-OS, Prisma Access and Cortex XDR
-Previously Tier-2/Tier-3 TAC for Prisma Access at Movate (formerly CSS Corp)
-~3 years in network security engineering and customer-facing troubleshooting
-🔬 Currently exploring
-AI / LLM security: how AI systems get attacked and how to defend them
-Building an AI agent that automates routing and firewall policy analysis over SSH
-🧰 Toolbox
-
-PAN-OS · Panorama · Prisma Access · GlobalProtect · Cortex XDR · Networking (TCP/IP, routing, IPSec) · PowerShell · Python · Linux
-
-📂 Featured
-GlobalProtect_Detector: PowerShell script that checks whether the GlobalProtect client is installed on an endpoint
-Portfolio
-📫 Connect
-
-LinkedIn · Medium · X / Twitter · tushar.s.security@gmail.com
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/tushars05) · [Medium](https://medium.com/@kingtushar2002) · [X / Twitter](https://x.com/TrojanTandoor) · tushar.s.security@gmail.com

@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Tushar 👋
 
-<!--
-**tushar-ux/tushar-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer focused on the Palo Alto Networks stack. I design, deploy and troubleshoot enterprise network security.
 
-Here are some ideas to get you started:
+🛡️ What I do
+Systems Engineer, Professional Services (Centralized Engineering) at Kerol Systems, a Palo Alto Networks partner
+Hands-on with NGFW / PAN-OS, Prisma Access and Cortex XDR
+Previously Tier-2/Tier-3 TAC for Prisma Access at Movate (formerly CSS Corp)
+~3 years in network security engineering and customer-facing troubleshooting
+🔬 Currently exploring
+AI / LLM security: how AI systems get attacked and how to defend them
+Building an AI agent that automates routing and firewall policy analysis over SSH
+🧰 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PAN-OS · Panorama · Prisma Access · GlobalProtect · Cortex XDR · Networking (TCP/IP, routing, IPSec) · PowerShell · Python · Linux
+
+📂 Featured
+GlobalProtect_Detector: PowerShell script that checks whether the GlobalProtect client is installed on an endpoint
+Portfolio
+📫 Connect
+
+LinkedIn · Medium · X / Twitter · tushar.s.security@gmail.com

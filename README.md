@@ -9,8 +9,8 @@
 - ~3 years in Network Security engineering and deploying SASE like never before
 
 ### 🔬 Currently exploring
-- **AI / LLM security**: how AI systems get attacked and how to defend them
-- 
+- **AI-DC Infra Security**: GPU Clusters and Neocloud does excite me. Exploring to see where it does take me !
+
 ### 🧰 Toolbox
 - **Network Security:** `Next-Gen Firewalls` · `SASE / ZTNA` · `Secure Web Gateway / Explicit Proxy` · `VPN (IPsec, SSL)` · `Network Segmentation` · `Zero-Trust Design`
 - **Endpoint & Detection:** `EDR / XDR` · `Threat Hunting` · `Detection Engineering` · `Malware Investigation` · `Incident Response` · `Root Cause Analysis`
@@ -22,9 +22,6 @@
 - **Labs & Analysis:** `Wireshark` · `GNS3` · `Kali Linux` · `Grafana` · `VirtualBox` · `Git` · `JIRA`
 - **Frameworks:** `NIST` · `RMF`
 - **Platforms:** `Palo Alto Networks` · `Fortinet` · `Zscaler`
- 
-### 📂 Featured
-- [GlobalProtect_Detector](https://github.com/tushar-ux/GlobalProtect_Detector): PowerShell script that checks whether the GlobalProtect client is installed on an endpoint
 
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/tushars05) · [Medium](https://medium.com/@kingtushar2002) · [X / Twitter](https://x.com/TrojanTandoor) · tushar.s.security@gmail.com
